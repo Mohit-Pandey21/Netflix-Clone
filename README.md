@@ -1,4 +1,5 @@
 Netflix Clone
+
 A responsive Netflix homepage and profile page clone built with HTML, CSS, and JavaScript.
 
 Overview
